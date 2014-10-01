@@ -8,7 +8,7 @@ import android.util.Log;
  * Created by Stefan on 2.10.2014 г..
  */
 
-public class InitialLayout extends Activity {
+public class InitialActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
